@@ -1,0 +1,6 @@
+__pycache__
+unsloth_compiled_cache
+datasets
+checkpoints
+wandb
+outputs
